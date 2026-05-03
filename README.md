@@ -8,7 +8,7 @@ I'm UemuraIkki, a student at a college of technology. I mainly engage in
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=UemuraIkki&theme=radical)
 
 ### 🔧 Tech & Tools
-![](https://skillicons.dev/icons?i=CPP,Python-Dark,LaTeX,Unity,git,github)
+![](https://skillicons.dev/icons?i=cpp,py,LaTeX,Unity,git,github)
 ![](https://skills.syvixor.com/api/icons?i=proxmox)
 
 ## My hobby
