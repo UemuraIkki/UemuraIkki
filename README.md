@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm UemuraIkki, a student at a college of technology. I mainly engage in 
+I'm UemuraIkki, a student at a college of technology.
 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=UemuraIkki&layout=compact&theme=radical)
